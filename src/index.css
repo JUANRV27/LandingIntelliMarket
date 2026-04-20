@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+body { font-family: 'Roboto', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+/* Hero gradient taken from Figma */
+.hero-gradient {
+  background: linear-gradient(180.938deg, #0c8ce9 9.3387%, #79bff2 97.572%);
+}
+
+.card-shadow { box-shadow: 0 1px 3px rgba(0,0,0,0.08); }
+
+.rounded-20 { border-radius: 20px; }

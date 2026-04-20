@@ -1,0 +1,10 @@
+export const imgIcon = "https://www.figma.com/api/mcp/asset/ef19a7a8-8d39-4c7e-852c-1c2b242dcaa4";
+export const imgShape = "https://www.figma.com/api/mcp/asset/b689158d-441c-4d2f-8178-fd03dc3447e7";
+export const imgImage6 = "https://www.figma.com/api/mcp/asset/be22450c-e218-4f21-98cf-110433bbb3bc";
+export const imgImage7 = "https://www.figma.com/api/mcp/asset/eaf0e874-8b61-4003-8213-4225a83e9dd9";
+export const imgImage9 = "https://www.figma.com/api/mcp/asset/14458f6c-4596-4b4f-b519-194a9919c178";
+export const imgImage31 = "https://www.figma.com/api/mcp/asset/5eaba713-c697-461d-8f36-2859313a6b65";
+export const imgEllipse1 = "https://www.figma.com/api/mcp/asset/b26bf974-f671-45b9-a745-3cfb76958692";
+export const imgVector200 = "https://www.figma.com/api/mcp/asset/66fe7bbb-b0fc-4149-9b7b-3aa73ce869d8";
+export const imgVector201 = "https://www.figma.com/api/mcp/asset/a29c3a8f-715f-4d0b-b800-c9b0697f0aa2";
+export const imgFrame427318817 = "https://www.figma.com/api/mcp/asset/f482cf9d-7e99-4c7f-82d5-be47fa22b207";
