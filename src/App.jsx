@@ -5,6 +5,7 @@ import Products from './components/Products'
 import Features from './components/Features'
 import Testimonials from './components/Testimonials'
 import Footer from './components/Footer'
+import Vision from './components/Vision'
 
 export default function App(){
   return (
@@ -14,6 +15,7 @@ export default function App(){
         <Hero />
         <Products />
         <Features />
+        <Vision />
         <Testimonials />
       </main>
       <Footer />
