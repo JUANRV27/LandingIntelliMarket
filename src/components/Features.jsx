@@ -3,7 +3,7 @@ import React from 'react'
 const items = [
   {title:'Calidad', text:'Seleccionamos solo los mejores productos del mercado.'},
   {title:'Local', text:'Apoyamos a productores locales para ofrecer frescura y autenticidad.'},
-  {title:'Variedad', text:'Una amplia selección de bebidas, abarrotes y snacks.'},
+  {title:'Variedad', text:'Una amplia selección de bebidas, abarrotes, snacks y más.'},
 ]
 
 export default function Features(){
