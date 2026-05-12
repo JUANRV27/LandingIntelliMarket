@@ -2,7 +2,7 @@ import React from 'react'
 import { imgImage7, imgImage9, imgImage31 } from '../figmaAssets'
 
 const products = [
-  { id:1, title:'Vino Tinto Viña Vieja Valle de Ica Malbec Botella 750ml.', price:'S/.30.00', img: imgImage7 },
+  { id:1, title:'Vino Tinto Viña Vieja Valle de Ica Malbec Botella 750ml.', price:'S/.35.00', img: imgImage7 },
   { id:2, title:'Los Cuates Tortillas Fritas a Base de Maíz Rancheritos', price:'S/.1.50', img: imgImage9 },
   { id:3, title:'Gaseosa Inka Kola Botella 600ml', price:'S/.3.60', img: imgImage31 },
 ]
